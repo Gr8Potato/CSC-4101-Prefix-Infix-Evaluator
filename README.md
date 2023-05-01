@@ -7,6 +7,6 @@ This program converts prefix expressions to infix expressions and evaluates it. 
 | * + A D * B C | (A + D) * (B * C) |
 | + + + A B C D | A + B + C + D |
 
-Below is an example of the program's output.
+Below is an example of the program's output, provided a user's input is "\* + 3 5 + 19 6."
 
 \* + 3 5 + 19 6 ➔ (3 + 5) * (19 + 6) = 200
