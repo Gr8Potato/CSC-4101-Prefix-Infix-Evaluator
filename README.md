@@ -9,4 +9,6 @@ This program converts prefix expressions to infix expressions and evaluates it. 
 
 Below is an example of the program's output, provided a user's input is "\* + 3 5 + 19 6."
 
-\* + 3 5 + 19 6 ➔ (3 + 5) * (19 + 6) = 200
+```
+* + 3 5 + 19 6 --> (3 + 5) * (19 + 6) = 200
+```
