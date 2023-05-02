@@ -31,7 +31,6 @@ public class Convertor {
      *
      * @param Expression - Prefix string to be evaluated and converted to infix
      */
-    //NOTE: NUMBER OF OPERATORS SEEMS TO ALWAYS BE ONE LESS THAN THE NUMBER OF OPERANDS. USEFUL FOR CHECKING.
     private static void prefixToInfix(String Expression) throws Exception {
         Stack<String> str_stack = new Stack<>(); //for prefix to infix conversion
         Stack<Integer> int_stack = new Stack<>(); //for mathematical evaluation
