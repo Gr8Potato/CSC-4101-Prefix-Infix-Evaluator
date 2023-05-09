@@ -12,3 +12,4 @@ Below is an example of the program's output, provided a user's input is "\* + 3 
 ```
 * + 3 5 + 19 6 --> (3 + 5) * (19 + 6) = 200
 ```
+### NOTE: THIS PROGRAM NEEDS TO BE FIXED TO SUPPORT VARIADIC CHAINING.
